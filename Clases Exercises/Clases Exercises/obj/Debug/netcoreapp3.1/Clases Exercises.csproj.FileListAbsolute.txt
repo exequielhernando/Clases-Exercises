@@ -11,3 +11,16 @@ C:\Users\exequ\source\repos\Clases Exercises\Clases Exercises\obj\Debug\netcorea
 C:\Users\exequ\source\repos\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.dll
 C:\Users\exequ\source\repos\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.pdb
 C:\Users\exequ\source\repos\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.genruntimeconfig.cache
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\bin\Debug\netcoreapp3.1\Clases Exercises.exe
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\bin\Debug\netcoreapp3.1\Clases Exercises.deps.json
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\bin\Debug\netcoreapp3.1\Clases Exercises.runtimeconfig.json
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\bin\Debug\netcoreapp3.1\Clases Exercises.runtimeconfig.dev.json
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\bin\Debug\netcoreapp3.1\Clases Exercises.dll
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\bin\Debug\netcoreapp3.1\Clases Exercises.pdb
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.csprojAssemblyReference.cache
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.AssemblyInfoInputs.cache
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.AssemblyInfo.cs
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.csproj.CoreCompileInputs.cache
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.dll
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.pdb
+C:\Users\exequ\source\repos\Clases-Exercises\Clases Exercises\Clases Exercises\obj\Debug\netcoreapp3.1\Clases Exercises.genruntimeconfig.cache

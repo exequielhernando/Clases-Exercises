@@ -1,17 +1,8 @@
-﻿using System;
+﻿using Clases_Exercises.Math;
+using System;
 
 namespace Clases_Exercises
-{   
-    public class Person
-    {
-        public String FirstName;
-        public String LastName;
-
-        public void Introduce()
-        {
-            Console.WriteLine("My name is " + FirstName + " " + LastName);
-        }
-    }
+{
     class Program
     {
         static void Main(string[] args)
@@ -20,6 +11,10 @@ namespace Clases_Exercises
             exequiel.FirstName = "Exequiel";
             exequiel.LastName = "Hernando";
             exequiel.Introduce();
+
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 2);
+            Console.WriteLine(result);
         }
     }
 }
