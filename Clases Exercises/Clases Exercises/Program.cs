@@ -1,5 +1,4 @@
-﻿using Clases_Exercises.Math;
-using System;
+﻿using System;
 
 namespace Clases_Exercises
 {
@@ -7,34 +6,15 @@ namespace Clases_Exercises
     {
         static void Main(string[] args)
         {
-            var exequiel = new Person();
-            exequiel.FirstName = "Exequiel";
-            exequiel.LastName = "Hernando";
-            exequiel.Introduce();
+            var a = 10;
+            var b = a;
+            b++;
+            Console.WriteLine(string.Format("a: {0}, b: {1}", a, b));
 
-            Calculator calculator = new Calculator();
-            var result = calculator.Add(1, 2);
-            Console.WriteLine(result);
-
-            var numbers = new int[3];
-            numbers[0] = 1;
-
-            Console.WriteLine(numbers[0]);
-            Console.WriteLine(numbers[1]);
-            Console.WriteLine(numbers[1]);
-
-            var flags = new bool[3];
-            flags[0] = true;
-
-            Console.WriteLine(flags[0]);
-            Console.WriteLine(flags[1]);
-            Console.WriteLine(flags[2]);
-
-            var names = new string[3] { "Jack", "John", "Mary" };
-
-            Console.WriteLine(names[0]);
-            Console.WriteLine(names[1]);
-            Console.WriteLine(names[2]);
+            var array1 = new int[3] { 1, 2, 3 };
+            var array2 = array1;
+            array2[0] = 0;
+            Console.WriteLine(string.Format("Array1[0]: {0}, Array2[0]: {1}", array1[0], array2[0]));
         }
     }
 }
